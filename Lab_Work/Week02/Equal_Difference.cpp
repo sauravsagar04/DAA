@@ -17,7 +17,6 @@ int Check(int arr[],int size, int key)
         }
     }
     return count;
-
 }
 
 int main()
