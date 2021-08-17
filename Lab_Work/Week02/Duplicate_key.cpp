@@ -28,8 +28,7 @@ int bsearch(int arr[], int left,int right,int key)
             return bsearch(arr,m+1,right,key);
     }
     else
-        return -1;
-    
+        return -1; 
 }
 
 int Duplicates(int arr[],int m,int size,int key)
