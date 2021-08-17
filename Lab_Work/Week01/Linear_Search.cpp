@@ -36,6 +36,5 @@ int main()
         cin>>key;
         Linear_search(arr,size,key);
     }
-    
     return 0;
 }
