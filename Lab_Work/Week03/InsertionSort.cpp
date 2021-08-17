@@ -25,6 +25,7 @@ void InsertionSort(int arr[],int size)
     cout<<"Swift = "<<comp+size-1<<"\n";  
 
 }
+
 int main()
 {
     int t;
