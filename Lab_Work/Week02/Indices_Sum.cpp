@@ -22,7 +22,6 @@ void Check(int arr[],int size)
     }
     if(count == ((size+1)*(size))/2)
         cout<<"No Sequence Found"<<"\n\n";
-
 }
 
 int Find(int arr[],int key,int size,int k)
