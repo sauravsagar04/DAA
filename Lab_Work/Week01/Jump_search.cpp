@@ -2,6 +2,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+
 int c=0;
 int jumpsearch(int a[],int n,int key)
 {
